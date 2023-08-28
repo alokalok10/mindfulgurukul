@@ -1,0 +1,12 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "relative-deps": "^1.0.7"
+  },
+  "relativeDependencies": {
+    "shared": "shared"
+  },
+  "scripts": {
+    "prepare": "relative-deps"
+  }
+}
